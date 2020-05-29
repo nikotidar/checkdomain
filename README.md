@@ -5,4 +5,4 @@
 $ ./checkdomain.sh facebook
 ```
 ---
-[screenshot](screenshot.png)
+[screenshot](https://raw.githubusercontent.com/nikotidar/checkdomain/master/screenshot.png)
