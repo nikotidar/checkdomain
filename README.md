@@ -4,5 +4,3 @@
 ```sh
 $ ./checkdomain.sh facebook
 ```
----
-[screenshot](https://raw.githubusercontent.com/nikotidar/checkdomain/master/screenshot.png)
