@@ -13,7 +13,8 @@ DOMAINS=( '.com' '.co.uk' '.net' '.info' '.mobi' \
 '.org' '.tel' '.biz' '.tv' '.cc' '.eu' '.ru' \ 
 '.in' '.it' '.sk' '.com.au' '.id' '.co.id' '.online' '.world' '.xyz' \
 '.biz' '.tech' '.ac' '.asia' '.cash' '.ch' \ 
-'.cn' '.cc' '.co' '.la' '.my.id' '.web.id')
+'.cn' '.cc' '.co' '.la' '.my.id' '.web.id' \
+'.us', '.or.id')
  
 ELEMENTS=${#DOMAINS[@]} 
  
